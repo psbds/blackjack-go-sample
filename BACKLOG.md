@@ -1,0 +1,11 @@
+- Criar o Deck(Baralho)
+---- Mostrar o Deck na tela
+- Embaralhar o Deck
+- Receber as informações dos jogadores
+- Começar o Jogo
+----- Dar opções para o Player 
+----------- Puxar uma carta
+------------------ Puxar uma carta aleatorio do Deck
+----------- Parar
+- Puxar as cartas para o Dealer
+- Mostrar o resultado do jogo
